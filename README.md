@@ -1,16 +1,17 @@
 # FacialRecognition Apps
 
-![alt text](https://raw.githubusercontent.com/developedbyadifens/FacialRecognitionApps-NodeJs/master/demo.png)
+![Result](https://raw.githubusercontent.com/developedbyadifens/FacialRecognitionApps-NodeJs/master/demo.png)
 
 ## Installation
 
 ```bash
-Clone/Download as Zip and then extract
+Download as zip
+extract file
 ```
 
 ## Usage
 
-```python
+```bash
 npm install -g live-server
 live-server
 ```
